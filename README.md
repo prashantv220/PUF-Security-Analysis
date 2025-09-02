@@ -17,7 +17,7 @@
 ---
 
 ## 🔑 Key Results
-- Logistic Regression (L2, C=100): **96–97% accuracy**  
+- Logistic Regression (L2, C=140): **97% accuracy**  
 - Linear SVM (L2, C=100): **~93% accuracy**  
 - Delay recovery method reconstructs consistent delay vectors from linear model coefficients.  
 
@@ -30,5 +30,3 @@
 - **SciPy** (Khatri-Rao product)  
 
 ---
-
-## 📂 Repository Structure
